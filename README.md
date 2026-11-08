@@ -8,8 +8,8 @@ For Resolution CAD design's Week 1 I'm making some keycaps. I am making these wi
 
 ### Spacebar key
 
-![](https://github.com/SwiftDust/Resolution/blob/main/Skermskoot%202026-03-15%20225002.png)
+![](https://github.com/SwiftDust/keycaps/blob/main/Skermskoot%202026-03-15%20225002.png)
 
 ### Tab key
 
-![](https://github.com/SwiftDust/Resolution/blob/main/Skermskoot%202026-03-15%20225326.png)
+![](https://github.com/SwiftDust/keycaps/blob/main/Skermskoot%202026-03-15%20225326.png)
